@@ -3,7 +3,10 @@ The reproduction of the Unix command 'ls'
 
 USAGE :
 
-      - man ls
+      - make
+      
+      
+      - ./my_ls [Directory name] [options]
     
 
 For Epitech students :
