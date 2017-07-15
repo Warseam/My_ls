@@ -6,6 +6,8 @@ USAGE :
       - make
       
       - ./my_ls [Directory name] [options]
+      
+      Options : -l, -R, -t, -lR, -lt ...
     
 
 For Epitech students :
