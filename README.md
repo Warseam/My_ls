@@ -5,7 +5,7 @@ USAGE :
 
       - make
       
-      - ./my_ls [Directory name] [options]
+      - ./my_ls [Directory name(s)] [option(s)]
       
       Options : -l, -R, -t, -lR, -lt ...
     
